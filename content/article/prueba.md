@@ -29,3 +29,5 @@ Lista desordenada:
 
 Este es un enlace a Google:
 [Aqui](https://www.google.com/)
+
+![Imagen bonita](https://1.bp.blogspot.com/-34rZxbaSYAg/WNiaLAGKE4I/AAAAAAADQDs/18xdf6A_MVoBH54g87mmKjiaHuBkVTglwCLcB/w1200-h630-p-k-no-nu/llanura-5200x3468.jpg)
