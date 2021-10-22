@@ -4,8 +4,9 @@ date: 2021-10-22T19:09:02+02:00
 draft: false
 ---
 
-
 ## Implantación y despliegue de una aplicación web estática
+
+El script funciona correctamente :)
 
 ### Ejercicios
 
